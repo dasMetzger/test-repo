@@ -1,4 +1,4 @@
-test-repo
+udemy
 =========
 
-This is a test repo
+This is a repo for python classes
